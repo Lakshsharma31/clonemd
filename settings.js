@@ -14,26 +14,26 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282288783972']
-global.premium = ['6282288783972']
-global.packname = 'Yudha'
-global.author = 'WhatsApp Bot'
+global.owner = ['919389379221']
+global.premium = ['919389379221']
+global.packname = '⫷ кคкครђเ รєภรเє ⫸'
+global.author = 'Mrs Dia hatake🧣❤'
 global.sessionName = 'zakbotz'
-global.email = 'tesheroku123@gmail.com'
-global.yt = 'https://youtube.com/channel/gapunya'
-global.region = 'Indonesia'
+global.email = 'kakashixre@gmail.com'
+global.yt = 'https://youtube.com/channel/Carryminati'
+global.region = 'India'
 global.prefa = ['','!','.','#','-','•']
 global.sp = '⭔'
 global.mess = {
-    success: 'Success 💯',
-    admin: 'Fitur Khusus Admin Group!!!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!!!',
-    owner: 'Fitur Khusus Owner Bot!!!',
-    group: 'Fitur Digunakan Hanya Untuk Group!!!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!!!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot!!!',
-    wait: '❗Waittt...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    success: 'Success❤',
+    admin: '(♥_♥)Only admin can use this cmd baka!!',
+    botAdmin: 'Bot Not admin bro use your eyes and promote me!!!',
+    owner: 'baka!! Only Master kakashi allowed to use this command!!',
+    group: 'This command works only in  Group!!!',
+    private: 'This command works only in Private Chat!!!',
+    bot: 'Bot Number User Special Features!!',
+    wait: '*Please wait* 🧣❤',
+    endLimit: 'YOUR TODAY LIMIT END COME AFTER 12 AT NIGHT BAKA!! TO GET PREMIUM CONTACT OWNER',
 }
 global.limitawal = {
     premium: "Infinity",
