@@ -267,12 +267,14 @@ function kyun(seconds){
 switch (command) {
 case 'menu':
 await kirbotz.send5ButGif(from, `
+  
+ 👋(💙ω💙) Uwu senpaii!!! 
 
+🧣𝙄 𝙖𝙢 𝙛𝙖𝙡𝙡𝙚𝙣 𝙖𝙣𝙜𝙚𝙡 🧣
 
-⦿ Runtime : ${kyun(process.uptime())}
-⦿ Jam : ${tampilJam}
-⦿ Hari : ${tampilHari}
+𝘽𝙮 𝕜𝕒𝕜𝕒𝕤𝕙𝕚 𝕓𝕠𝕥𝕫. 𝕀𝕟𝕔
 
+⦿ 𝙢𝙮 𝙍𝙪𝙣𝙩𝙞𝙢𝙚 : ${kyun(process.uptime())}
 
 🎗 *TOOLS MENU* 🎗
 
@@ -460,9 +462,10 @@ await kirbotz.send5ButGif(from, `
 🧧 ${prefix}listgc
 🧧 ${prefix}listonline
 
-Note:
-Masih Tahap Pengembangan Jika Ada Eror/Bug Segera Lapor
-Thanks~
+🧧Note:
+𝙞𝙛 𝙪 𝙣𝙤𝙩𝙞𝙘𝙚 𝙖𝙢𝙮 𝙗𝙪𝙜𝙨  𝙩𝙝𝙚𝙣 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙪𝙨 
+🚀𝙈𝙤𝙧𝙚 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨 𝙘𝙤𝙢𝙞𝙣𝙜 𝙨𝙤𝙤𝙣 🚀
+𝙏𝙝𝙖𝙣𝙠𝙨~
 ` ,
  `© 𝕂𝕒𝕜𝕒𝕤𝕙𝕚 𝕓𝕠𝕥𝕫🏮`, [
 {"urlButton": {"displayText": "🧣support group🧣","url": `https://chat.whatsapp.com/EQVwc08goNlLtSivsfmpUT`}}, {"urlButton": {"displayText": "Instagram Owner","url": `https://instagram.com/kakashi_coder`}},
